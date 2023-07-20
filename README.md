@@ -1,8 +1,30 @@
-# React + Vite
+# Practica de React - Formulario simple
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+_Consiste en llenar un formulario y validad los datos ingresados_
 
-Currently, two official plugins are available:
+### Demo ⭐
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Formulario ](https://formulariofk.netlify.app/)
+
+# Tecnologias ⚒️
+
+- HTML **v5**
+- CSS **v3**
+- [Bootstrap](https://getbootstrap.com/) **v5.3**
+- JavaScript / React
+- [React-Bootstrap](https://react-bootstrap.github.io/)
+
+---
+
+## Autor 👨‍💻👩‍💻
+
+1. Kameyha Facundo Adrian
+
+## Mentora / Tutor👨‍💻👩‍💻
+
+1. Emilse Arias
+2. Jonathan Plodzien
+
+---
+
+Copyright (c) 2020 -2023
