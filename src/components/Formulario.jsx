@@ -9,9 +9,12 @@ const Formulario = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+
     if (!nombre || !apellido || !dni || !email) {
       alert("Completar todos los datos");
-    } else alert("Datos enviados");
+      return;
+    }
+    alert("Datos enviados");
     e.target.reset();
   };
 

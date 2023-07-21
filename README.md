@@ -27,4 +27,4 @@ _Consiste en llenar un formulario y validad los datos ingresados_
 
 ---
 
-Copyright (c) 2020 -2023
+Copyright (c) 2023
